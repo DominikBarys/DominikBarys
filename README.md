@@ -1,4 +1,4 @@
-### Hi there 👋
+### Student of the Silesian University of Technology, computer science 🖱💻
 
 <!--
 **DominikBarys/DominikBarys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
